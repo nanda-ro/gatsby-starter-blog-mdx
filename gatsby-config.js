@@ -1,6 +1,6 @@
 module.exports = {
     siteMetadata: {
-      title: "Blog title",
+      title: "Site Title",
       description: "Gatsby Starter with MDX supported",
     },
     plugins: [
